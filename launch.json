@@ -1,0 +1,10 @@
+{
+  "kind": "evm_contracts",
+  "contracts": [
+    {
+      "contract": "Counter",
+      "constructorArgs": []
+    }
+  ],
+  "notes": "Counter starts at zero. Anyone can call increment() to increase the count by exactly one and return the new value, or count() to read it. Incrementing at the uint256 maximum reverts. The contract has no constructor arguments or privileged roles."
+}
