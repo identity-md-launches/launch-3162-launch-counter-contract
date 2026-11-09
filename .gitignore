@@ -1,0 +1,12 @@
+# Foundry build artifacts
+out/
+cache/
+broadcast/
+
+# Local scratch space (deleted before verification anyway)
+test/scratch/
+
+# Editor and shell noise
+.idea
+.vscode
+*.swp
